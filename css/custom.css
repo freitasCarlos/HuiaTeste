@@ -269,7 +269,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: left;
     color: #fff;
     background-attachment: scroll;    
     background-image: url(../img/bgHome.png);
@@ -929,8 +928,7 @@ a.option:active{
     background: #ebebeb;
     background-repeat: no-repeat;
     background-position: absolute;
-    z-index: 5;
-    
+    z-index: 5;   
     
 
 }
@@ -1144,4 +1142,8 @@ transform: skew(20deg, 3deg);
 
 .sobre{
     z-index: 21;
+}
+
+.video{
+    margin-top: 8%;
 }

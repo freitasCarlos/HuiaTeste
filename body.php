@@ -30,7 +30,7 @@
             </div><!--/carousel-inner-->     
           </div><!-- /carousel -->
         </div><!--/8 -->
-          <div class="col-lg-4 sobre">
+          <div class="col-lg-4 sobre video">
           <h2 class="section-heading">GALLERY</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi efficitur vestibulum lacus vitae fermentum. Nulla facilisi. Quisque ac tincidunt lectus, non congue velit. Maecenas faucibus massa vitae arcu sollicitudin tempus. Morbi euismod erat sed magna congue tincidunt. </p>
           <p>
@@ -63,10 +63,10 @@
 <section id="video" class="">
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
-               <iframe src="https://player.vimeo.com/video/61821553?color=ff0000&title=0&byline=0&portrait=0" width="100%" height="360px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      <div class="col-md-8 video">
+               <iframe src="https://player.vimeo.com/video/61821553?color=ff0000&title=0&byline=0&portrait=0" width="100%" height="400px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div><!--/col-md-8-->
-        <div class="col-md-4">
+        <div class="col-md-4 video">
             <h2 class="section-heading">VIDEO</h2>
             <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
          </div><!--/col-md-4-->

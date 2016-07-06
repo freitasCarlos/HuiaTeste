@@ -26,12 +26,11 @@
          <div class="col-md-11"></div><!--/col-md-9-->
               <div class="col-md-1">
                 <nav class="selector">
-                  <ul class="">                    
+                  <ul>                    
                     <li><a class="page-scroll" href="#page-top">O</a></li>
                     <li><a class="page-scroll" href="#gallery">O</a></li>
                     <li><a class="page-scroll" href="#technology">O</a></li>
-                    <li><a class="page-scroll" href="#video">O</a></li>
-                    
+                    <li><a class="page-scroll" href="#video">O</a></li>                    
                   </ul>
                 </nav><!--/menu-->
               </div><!--/col-md-3-->

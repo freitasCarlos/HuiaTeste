@@ -6,7 +6,7 @@
 var cbpAnimatedHeader = (function() {
 
 	var docElem = document.documentElement,
-		header = document.querySelector( '' ),
+		header = document.querySelector( 'nav' ),
 		didScroll = false,
 		changeHeaderOn = 300;
 
@@ -22,10 +22,10 @@ var cbpAnimatedHeader = (function() {
 	function scrollPage() {
 		var sy = scrollY();
 		if ( sy >= changeHeaderOn ) {
-			classie.add( header, '' );
+			classie.add( header, 'active' );
 		}
 		else {
-			classie.remove( header, '' );
+			classie.remove( header, 'active' );
 		}
 		didScroll = false;
 	}
